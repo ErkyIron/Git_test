@@ -23,7 +23,11 @@
        <script src="node_modules/less/dist/less.min.js"></script>
 -->
 
+<<<<<<< HEAD
+    <title>Git і GitHub!</title>
+=======
     <title>Комп'ютерний практикум №3. Git і GitHub! Welcome!!!</title>
+>>>>>>> master
 </head>
 <body>
 <!--    <header>
